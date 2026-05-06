@@ -177,4 +177,4 @@ cd frontend && pnpm install && pnpm dev
 ---
 
 ## 📄 License
-MIT © lumenlabs contributors
+MIT © driplabs contributors
